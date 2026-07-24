@@ -91,6 +91,5 @@ Leading a student organization focused on building community, promoting events, 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: your-link-here
-- 📧 Email: your-email-here
-- 🌐 Portfolio: your-link-here
+- 💼 LinkedIn: www.linkedin.com/in/jennifer-lucero21
+- 📧 Email: lucerojennifer607@gmail.com
