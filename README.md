@@ -1,6 +1,6 @@
 # Hi, I'm Jennifer 👋
 
-I'm a Computer Science student passionate about software engineering, AI, and web development. I'm currently a Break Through Tech AI Studio Fellow and a Web & Creative Development Intern at Chicla, where I'm building experience in machine learning, software development, and user-centered design. I enjoy creating projects that solve real-world problems while continuing to grow my technical and leadership skills.
+I'm a Computer Science student passionate about web development, digital marketing, and creating user-focused experiences through technology. I'm currently a Break Through Tech AI Studio Fellow and a Web & Creative Development Intern at Chicla, where I'm gaining experience in website design, user experience, software development, and brand storytelling. I enjoy combining creativity and technology to build projects that connect with users and solve real-world problems while continuing to grow my technical and leadership skills.
 
 ## 🚀 Featured Projects
 
