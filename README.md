@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jennifer 👋
 
-<!--
-**LJennifer21/LJennifer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about software engineering,
+AI, and web development...
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Portfolio
+A responsive website showcasing my projects and experience.
+🔗 Repository
+
+### EquiBot
+An iOS app built with SwiftUI, Python Flask, and Gemini API.
+🔗 Repository
+
+## 🛠 Tech Stack
+
+Python • Java • JavaScript • HTML • CSS • Swift
+Git • GitHub • VS Code • Firebase
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Software Engineering
+- AI
+
+## 📫 Connect With Me
+
+LinkedIn
+Email
+Portfolio
