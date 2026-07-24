@@ -93,7 +93,7 @@ Creating digital content, promotional materials, and marketing strategies to sup
 
 ---
 
-# 🌟 Leadership
+# 🌟 Leaderships
 
 ### President — LatinxInTech
 Leading a student organization focused on building community, promoting events, and supporting students interested in technology.
