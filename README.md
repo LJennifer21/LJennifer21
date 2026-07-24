@@ -36,7 +36,6 @@ A collaborative web application that allows professors to manage student profile
 - VS Code
 - Xcode
 - Jupyter Notebook
-- Google Colab
 
 ## 🌱 Currently Learning
 
@@ -49,6 +48,6 @@ As a Break Through Tech AI Studio Fellow, I'm currently expanding my knowledge i
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 🌐 Portfolio
+- 💼 LinkedIn: www.linkedin.com/in/jennifer-lucero21
+- 📧 Email: lucerojennifer607@gmail.com
+- 🌐 Portfolio: 
