@@ -23,7 +23,7 @@ A personal website showcasing my background, technical skills, and projects. Bui
 ---
 
 ### 🎓 Student Hub
-A collaborative web application that allows professors to create and manage student profiles, including academic information, skills, interests, and evaluations.
+A collaborative Java project designed to help manage student profiles, including academic information, skills, interests, and evaluations.
 
 **Tech:** Java • JavaFX • Scene Builder
 
