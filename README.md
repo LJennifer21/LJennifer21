@@ -1,6 +1,6 @@
 # Hi, I'm Jennifer 🌸
 
-I'm a Computer Science student passionate about web development, digital marketing, and creating user-focused experiences through technology. I'm currently a Break Through Tech AI Studio Fellow and a Web & Creative Development Intern at Chicla, where I'm developing skills in AI, software development, UX, and creative problem-solving. I enjoy combining technology and creativity to build projects that solve real-world problems while continuing to grow my technical and leadership skills.
+I'm a Computer Science student passionate about web development, digital marketing, and creating user-focused experiences through technology. I'm currently a Break Through Tech AI Studio Fellow and a Web & Creative Development Intern at Chicla, where I'm developing skills in AI, software development, UX, and creative problem-solving. I enjoy combining technology and creativity to build projects that solve real-world problems.
 
 ## ✨ Featured Projects
 
@@ -27,9 +27,11 @@ A collaborative web application that allows professors to create and manage stud
 
 🔗 [View Repository](https://github.com/Team-32-CS-151-F25/Student-Hub)
 
-## 🛠️ Tech Stack
+---
 
-### 💻 Languages
+# 🛠️ Tech Stack
+
+## 💻 Languages
 - Python
 - Java
 - JavaScript
@@ -38,26 +40,26 @@ A collaborative web application that allows professors to create and manage stud
 - Swift
 - SQL
 
-### 🌐 Frameworks & Technologies
+## 🌐 Frameworks & Technologies
 - Flask
 - SwiftUI
 - Firebase
 - Gemini API
 
-### 🎨 Design & User Experience
+## 🎨 Design & User Experience
 - Figma
 - Canva
 - Notion
 - Wireframing
 - Prototyping
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 - Machine Learning
 - scikit-learn
 - Pandas
 - NumPy
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 - Git
 - GitHub
 - VS Code
@@ -65,15 +67,20 @@ A collaborative web application that allows professors to create and manage stud
 - Jupyter Notebook
 - Google Colab
 
-## 🌱 Currently Learning
+---
+
+# 🌱 Currently Learning
 
 As a Break Through Tech AI Studio Fellow, I'm continuing to develop my skills in:
+
 - Machine Learning
 - AI model development
 - Data analysis
-- Machine learning libraries including scikit-learn, Pandas, and NumPy
+- Data science libraries including scikit-learn, Pandas, and NumPy
 
-## 💼 Experience
+---
+
+# 💼 Experience
 
 ### 🤖 Break Through Tech AI Studio Fellow
 Developing AI and machine learning skills through technical coursework, projects, coding labs, mentorship, and professional development.
@@ -84,10 +91,14 @@ Designing website concepts focused on user experience, navigation, product prese
 ### 🎨 Digital Marketing Ambassador — Responsible Computing Club
 Creating digital content, promotional materials, and marketing strategies to support club events and community engagement.
 
-## 🌟 Leadership
+---
+
+# 🌟 Leadership
 
 ### President — LatinxInTech
 Leading a student organization focused on building community, promoting events, and supporting students interested in technology.
+
+---
 
 ## 📫 Connect With Me
 
