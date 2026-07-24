@@ -102,8 +102,7 @@ Leading a student organization focused on building community, promoting events, 
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="your-link">LinkedIn</a> •
-<a href="mailto:your-email@example.com">Email</a> •
-<a href="your-portfolio-link">Portfolio</a>
-</p>
+💼 [LinkedIn](www.linkedin.com/in/jennifer-lucero21)
+
+📧 [Email](mailto:lucerojennifer607@gmail.com)
+
