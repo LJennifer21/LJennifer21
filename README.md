@@ -44,6 +44,13 @@ A collaborative web application that allows professors to create and manage stud
 - Firebase
 - Gemini API
 
+### 🎨 Design & User Experience
+- Figma
+- Canva
+- Notion
+- Wireframing
+- Prototyping
+
 ### 🤖 AI & Machine Learning
 - Machine Learning
 - scikit-learn
