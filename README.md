@@ -7,17 +7,11 @@ I'm a Computer Science student passionate about software engineering, AI, and we
 ### 🌐 Personal Portfolio
 A responsive website showcasing my background, technical skills, and projects.
 
-🔗 Repository
-
 ### 📱 EquiBot
 An iOS application that helps users navigate California legal resources using AI. Built with SwiftUI, Python Flask, Firebase, and the Gemini API.
 
-🔗 Repository
-
 ### 🎓 Student Hub
 A collaborative web application that allows professors to manage student profiles, skills, interests, and evaluations.
-
-🔗 Repository
 
 ## 🛠️ Tech Stack
 
