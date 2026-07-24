@@ -93,7 +93,7 @@ Creating digital content, promotional materials, and marketing strategies to sup
 
 ---
 
-# 🌟 Leaderships
+# 🌟 Leadership
 
 ### President — LatinxInTech
 Leading a student organization focused on building community, promoting events, and supporting students interested in technology.
@@ -102,7 +102,7 @@ Leading a student organization focused on building community, promoting events, 
 
 ## 📫 Connect With Me
 
-💼 [LinkedIn](www.linkedin.com/in/jennifer-lucero21)
+💼 [LinkedIn](https://www.linkedin.com/in/jennifer-lucero21/)
 
 📧 [Email](mailto:lucerojennifer607@gmail.com)
 
