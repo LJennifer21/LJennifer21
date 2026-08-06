@@ -4,8 +4,6 @@ I'm a Computer Science student passionate about web development, UX/UI design, a
 
 Currently, I'm a Web & Creative Development Intern at Chicla, where I design website concepts and prototypes in Figma, focusing on intuitive navigation, visual storytelling, and improving the overall digital experience.
 
-I'm interested in the intersection of technology, design, and branding, and I enjoy creating projects that are both functional and visually engaging.
-
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
