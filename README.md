@@ -27,9 +27,7 @@ Here are some of the technologies and tools I work with:
 
 ## ✨ Interests
 
-Beyond coding, I'm passionate about:
-
-→ Web design and creating engaging digital experiences  
-→ UX/UI design and user-centered experiences  
-→ Digital marketing and creative branding  
-→ Exploring how technology connects with creativity
+→ Web design & digital experiences  
+→ UX/UI and creative problem-solving  
+→ Digital marketing & branding  
+→ Technology, accessibility, and community building
