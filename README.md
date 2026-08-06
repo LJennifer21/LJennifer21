@@ -29,11 +29,7 @@ Here are some of the technologies and tools I work with:
 
 Beyond coding, I'm passionate about:
 
-→ Creating engaging web experiences  
-→ Exploring UX/UI and digital design  
-→ Learning how technology connects with branding and marketing  
-→ Building projects that improve accessibility and user experiences  
-→ Supporting communities in technology through mentorship and leadership UX/UI and digital design  
-→ Learning how technology connects with branding and marketing  
-→ Building projects that improve accessibility and user experiences  
-→ Supporting communities in technology through mentorship and leadership
+→ Web design and creating engaging digital experiences  
+→ UX/UI design and user-centered experiences  
+→ Digital marketing and creative branding  
+→ Exploring how technology connects with creativity
